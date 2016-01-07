@@ -80,8 +80,8 @@
         PO Box 21<br>
         Delta, UT 84624</a>
     </address>
-    <p>&copy;<small>2016 Quilts 4 You</small></p>
-    <p><small>Designed &amp; Built by: <b>Techie Grit</b></small></p>
+    <p>&copy;2016 Quilts 4 You</p>
+    <p>Designed &amp; Built by: Techie Grit</p>
 </footer>
 
 </body>
