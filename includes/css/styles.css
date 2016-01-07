@@ -1,5 +1,7 @@
 body {
     font-family: Ubuntu, sans-serif;
+    font-size: 1.2em;
+    line-height: 1.5;
 
     border: 1px solid black;
 }

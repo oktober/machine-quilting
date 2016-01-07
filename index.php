@@ -18,8 +18,9 @@
 </header>
 
 <section>
-    <p>At Quilts 4 You - Heartspun Treasures, we are dedicated to providing you with the best long arm quilting service in a timely manner. We do not use pantograph patterns like many long arm machine quilters do so your quilt will always be unique and specially made just for you. We have many patterns to choose from and are continually adding to our selection. We will work with you to find a pattern that will complement and showcase your quilt.</p>
-    <p>In addition to long arm machine quilting we also offer a variety of services to meet your needs. Our design team would be glad to work closely with you to design and create a memorable quilt, from start to finish, for any occasion.</p>
+    <p>At Quilts 4 You - Heartspun Treasures, we are dedicated to providing you with the best long arm quilting service in a timely manner.</p>
+    <p>Your quilt will always be unique and specially made just for you. We have been free motion quilting for XXXX years and are confident in our ability to deliver beautiful, custom quilts in a reasonable amount of time.</p>
+    <p>We have many patterns to choose from and are continually adding to our selection. We look forward to collaborating with you to find a pattern that will enhance and showcase your beautiful quilt.</p>
 </section>
 
 </body>
