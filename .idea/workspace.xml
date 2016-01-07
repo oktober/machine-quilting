@@ -4,7 +4,7 @@
     <list default="true" id="64cd2069-f98d-4a67-a428-b6871da210de" name="Default" comment="" />
     <ignored path="quilts4you-redesign.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.php" changelist="64cd2069-f98d-4a67-a428-b6871da210de" time="1452197953411" ignored="false" />
+    <file path="/index.php" changelist="64cd2069-f98d-4a67-a428-b6871da210de" time="1452198932443" ignored="false" />
     <file path="/styles.css" changelist="64cd2069-f98d-4a67-a428-b6871da210de" time="1452198530848" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="7" selection-start="3805" selection-end="3805" vertical-scroll-proportion="0.8791715">
+            <state line="56" column="41" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.62025315">
               <folding />
             </state>
           </provider>
@@ -263,7 +263,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="7" selection-start="3805" selection-end="3805" vertical-scroll-proportion="0.8791715">
+        <state line="56" column="41" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.62025315">
           <folding />
         </state>
       </provider>

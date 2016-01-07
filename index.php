@@ -27,16 +27,21 @@
 <hr>
 
 <section>
+    <h2>Get Started!</h2>
     <a href="">Pricing</a><br>
     <a href="">Patterns</a><br>
-    <a href="">Thread &amp; Batting</a>
+    <a href="">Thread &amp; Batting</a><br>
+    <a href="">Preparation Checklist</a><br>
+    <a href="">Order Information</a>
 </section>
 
 <hr>
 
 <section>
-    <a href="">Preparation Checklist</a><br>
-    <a href="">Order Information</a>
+    <h2>Learn More</h2>
+    <a href="">Photo Gallery</a><br>
+    <a href="">About Quilts 4 You</a>
+    <p>Create a Contact Us form here</p>
 </section>
 
 <hr>
@@ -49,7 +54,7 @@
 <hr>
 
 <section>
-    <h2>Hear from our satisfied customers!</h2>
+    <h2>Hear from our satisfied customers</h2>
 
     <q>I received my quilt on Saturday and it is beautiful, you did a great job! I have already put the binding on and it is ready to mail to the bride and groom... Again, thanks for the beautiful quilt and I look forward working with you in the future.</q>
     <cite>Jeanice S. in North Carolina</cite>
@@ -80,6 +85,7 @@
         PO Box 21<br>
         Delta, UT 84624</a>
     </address>
+    <p>Your destination for machine quilting, quilt binding, and quilting supplies for Utah &amp; the continental US</p>
     <p>&copy;2016 Quilts 4 You</p>
     <p>Designed &amp; Built by: Techie Grit</p>
 </footer>
