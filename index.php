@@ -14,8 +14,8 @@
 <?php //include_once("includes/analyticstracking.php") ?>
 
 <header>
-    <img src="includes/images/logo_small.png" alt="Quilts 4 You Logo">
-    <h1>Quilts 4 You for your Long-Arm Machine Quilting services</h1>
+    <img src="includes/images/logo_small_cropped.png" alt="Quilts 4 You Logo">
+    <h1>Quilts 4 You<br>for your<br>Long-Arm Machine<br>Quilting services</h1>
 </header>
 
 <section>
