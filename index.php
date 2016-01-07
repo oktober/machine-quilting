@@ -73,5 +73,16 @@
     <a>Add image here with a popup showing the quilt (sunflower_quilt.jpg)</a>
 </section>
 
+<footer>
+    <address>
+        Quilts 4 You<br>
+        <a href="https://www.google.com/maps/place/647+Bristlecone+Ln,+Delta,+UT+84624/@39.351987,-112.561154,15z/data=!4m2!3m1!1s0x874cb587c6ee9dc9:0xfb0bb9aa2960a30d?hl=en" target="_blank" rel="nofollow">647 E Bristlecone Lane<br>
+        PO Box 21<br>
+        Delta, UT 84624</a>
+    </address>
+    <p>&copy;<small>2016 Quilts 4 You</small></p>
+    <p><small>Designed &amp; Built by: <b>Techie Grit</b></small></p>
+</footer>
+
 </body>
 </html>
