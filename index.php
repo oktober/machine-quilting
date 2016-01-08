@@ -23,21 +23,21 @@
     </div>
 </header>
 
-<section>
+<section class="info-group">
     <p>At Quilts 4 You, we are dedicated to providing you with the best long arm quilting service in a timely manner.</p>
     <p>Your quilt will always be unique and specially made just for you. We have XXXX years of free motion quilting experience and are confident in our ability to deliver beautiful, custom quilts in a reasonable amount of time.</p>
     <p>We have many patterns to choose from and are continually adding to our selection. We look forward to collaborating with you to find a pattern that will enhance and showcase your beautiful quilt.</p>
 </section>
 
-<hr>
-
 <section>
-    <h2>Get Started!</h2>
-    <a href="">Pricing</a><br>
-    <a href="">Patterns</a><br>
-    <a href="">Thread &amp; Batting</a><br>
-    <a href="">Preparation Checklist</a><br>
-    <a href="">Order Information</a>
+    <h2 class="section-title">Get Started!</h2>
+    <div class="info-group">
+        <a href="">Pricing</a><br>
+        <a href="">Patterns</a><br>
+        <a href="">Thread &amp; Batting</a><br>
+        <a href="">Preparation Checklist</a><br>
+        <a href="">Order Information</a>
+    </div>
 </section>
 
 <hr>

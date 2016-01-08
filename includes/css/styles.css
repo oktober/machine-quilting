@@ -56,23 +56,28 @@ body {
     font-family: Ubuntu, sans-serif;
     font-size: 1.2em;
     line-height: 1.5;
+    background-color: #FFFAC6;
 
     border: 1px solid black;
 }
 
-section,
+.info-group,
 footer {
     padding: 0 5%;
+}
+
+header {
+    margin-bottom: 0.5rem;
 }
 
 .logo-container {
     display: inline-block;
     width: 60%;
+    background-color: #FFF;
 }
 .tagline-container {
     display: inline-block;
     width: 36%;
-    height: 100%;
     background-color: #CC8A2B;
     vertical-align: top;
     padding-left: 4%;
@@ -80,10 +85,9 @@ footer {
 /** END Container Styles **/
 
 img {
-    margin: 5% 0 5% 3%;
+    margin: 5% 0 0 0.5rem;
     width: 80%;
 
-    border: 1px solid gray;
 }
 
 h1, header h2 {
@@ -97,10 +101,17 @@ h1 {
 }
 header h2 {
     font-size: 0.79em;
-    margin-bottom: 25px;
+    margin-bottom: 23px;
     line-height: 1.2em;
 }
 
 p {
     margin-bottom: 5%;
+}
+
+.section-title {
+    background-color: #8C1300;
+    color: #B0AA92;
+    padding: 2% 0 2% 0.5rem;
+    margin-bottom: 0.5rem;
 }
