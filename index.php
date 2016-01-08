@@ -33,16 +33,16 @@
     <p>We have many patterns to choose from and are continually adding to our selection. We look forward to collaborating with you to find a pattern that will enhance and showcase your beautiful quilt.</p>
 </section>
 
-<section>
+<nav>
     <h2 class="section-title">Get Started!</h2>
     <div class="info-group">
-        <a href="">Pricing</a><br>
-        <a href="">Patterns</a><br>
-        <a href="">Thread &amp; Batting</a><br>
-        <a href="">Preparation Checklist</a><br>
-        <a href="">Order Information</a>
+        <div class="link"><a href="">Pricing >></a></div>
+        <div class="link"><a href="">Patterns >></a></div>
+        <div class="link"><a href="">Thread &amp; Batting >></a></div>
+        <div class="link"><a href="">Preparation Checklist >></a></div>
+        <div class="link"><a href="">Order Information >></a></div>
     </div>
-</section>
+</nav>
 
 <hr>
 

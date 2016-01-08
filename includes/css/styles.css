@@ -114,5 +114,31 @@ p {
     color: #B0AA92;
     padding: 2% 0 2% 0.5rem;
     margin-bottom: 0.5rem;
-    font-size: 1rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+a:hover,
+a:active
+ {
+    color: #78766F;
+    text-decoration: underline;
+}
+a:visited {
+
+}
+
+.link {
+    width: 90%;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #B0AA92;
+}
+.link:last-child {
+    margin-bottom: 0;
+    border: 0;
 }
