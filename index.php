@@ -13,12 +13,13 @@
 <body>
 <?php //include_once("includes/analyticstracking.php") ?>
 
-<header style="border:1px solid gray;">
+<header>
     <div class="logo-container">
         <img src="includes/images/logo_small_cropped.png" alt="Quilts 4 You Logo">
     </div><!--
     --><div class="tagline-container">
-        <h1>Quilts 4 You<br>for your<br>Long-Arm Machine<br>Quilting services</h1>
+        <h1>Quilts 4 You</h1>
+        <h2>for your<br>Long-Arm Machine<br>Quilting services</h2>
     </div>
 </header>
 
