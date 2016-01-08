@@ -18,8 +18,12 @@
         <img src="includes/images/logo_small_cropped.png" alt="Quilts 4 You Logo">
     </div><!--
     --><div class="tagline-container">
-        <h1>Quilts 4 You</h1>
-        <h2>for your<br>Long-Arm Machine<br>Quilting services</h2>
+        <h1>
+            <span class="company-name">Quilts 4 You</span><br>
+            for your<br>
+            Long-Arm Machine<br>
+            Quilting services
+        </h1>
     </div>
 </header>
 
