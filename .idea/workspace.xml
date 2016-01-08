@@ -4,8 +4,8 @@
     <list default="true" id="64cd2069-f98d-4a67-a428-b6871da210de" name="Default" comment="" />
     <ignored path="quilts4you-redesign.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.php" changelist="64cd2069-f98d-4a67-a428-b6871da210de" time="1452199797389" ignored="false" />
-    <file path="/styles.css" changelist="64cd2069-f98d-4a67-a428-b6871da210de" time="1452199768420" ignored="false" />
+    <file path="/index.php" changelist="64cd2069-f98d-4a67-a428-b6871da210de" time="1452269234798" ignored="false" />
+    <file path="/styles.css" changelist="64cd2069-f98d-4a67-a428-b6871da210de" time="1452269614945" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +28,10 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="40" selection-start="107" selection-end="107" vertical-scroll-proportion="-2.5">
-              <folding />
+            <state line="16" column="16" selection-start="647" selection-end="661" vertical-scroll-proportion="-10.0">
+              <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,7 +39,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="13" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.8013245">
+            <state line="70" column="29" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.5860927">
               <folding />
             </state>
           </provider>
@@ -59,7 +61,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="302" />
+    <option name="x" value="18" />
     <option name="y" value="22" />
     <option name="width" value="1318" />
     <option name="height" value="1054" />
@@ -169,7 +171,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="22" width="1318" height="1054" extended-state="0" />
+    <frame x="18" y="22" width="1318" height="1054" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -256,14 +258,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="107" selection-end="107" vertical-scroll-proportion="-2.5">
-          <folding />
+        <state line="16" column="16" selection-start="647" selection-end="661" vertical-scroll-proportion="-10.0">
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="13" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.8013245">
+        <state line="70" column="29" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.5860927">
           <folding />
         </state>
       </provider>

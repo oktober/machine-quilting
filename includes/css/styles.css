@@ -56,21 +56,37 @@ body {
     font-family: Ubuntu, sans-serif;
     font-size: 1.2em;
     line-height: 1.5;
-    padding: 0 5%;
 
     border: 1px solid black;
 }
 
+section,
+footer {
+    padding: 0 5%;
+}
+
+.logo-container {
+    display: inline-block;
+    width: 64%;
+    background-color: #FFFAC6;
+
+    border: 1px solid purple;
+}
+.tagline-container {
+    display: inline-block;
+    width: 33%;
+
+    border: 1px solid green;
+}
+
 img {
     margin: 10px 0;
-    width: 64%;
+    width: 80%;
 
     border: 1px solid gray;
 }
 
 h1 {
-    display: inline-block;
-    width: 33%;
     font-size: 0.65em;
     font-weight: bold;
     text-align: justify;
