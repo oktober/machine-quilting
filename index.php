@@ -55,7 +55,7 @@
 
     <hr>
 
-    <p>Create a Contact Us form here</p>
+    <p>TODO: Create a Contact Us form here</p>
 
     <hr>
 
@@ -81,7 +81,7 @@
             <br>
             <q>As always, Ann does an impeccable job with both design and technique. The quilt required a lot of time and effort from me to piece and I appreciate her taking equal time and effort to help in creating a treasured keepsake. Thanks Ann!</q>
             <cite>Sherida P. in Utah</cite>
-            <p class="image-popup"><a href="includes/images/customer_review_quilts/kaleidoscopequilt-xs.jpeg">View the quilt</a></p>
+            <p class="image-popup"><a href="includes/images/customer_review_quilts/kaleidoscopequilt-xs.jpeg">TODO: View the quilt</a></p>
 
             <br>
             <q>I am so pleased! It is absolutely beautiful! You did just exactly what I wanted, and I can't thank you enough!</q>
@@ -90,7 +90,7 @@
             <br>
             <q>Thank you soooooooo much. It is beautiful and I can not wait for my husband to come home and see it on the bed. You really did a beautiful job. I have a label and I am excited to affix it on the back. I am the proud owner of a quilt that Ann Morgan Quilted!!!!! It is wonderful. I really love the designs. Can't wait to show it off at work tomorrow!!!</q>
             <cite>Caryl J. in Utah</cite>
-            <p class="image-popup"><a href="includes/images/customer_review_quilts/sunflower_quilt-xs.jpeg">View the quilt</a></p>
+            <p class="image-popup"><a href="includes/images/customer_review_quilts/sunflower_quilt-xs.jpeg">TODO: View the quilt</a></p>
         </div>
     </section>
 
