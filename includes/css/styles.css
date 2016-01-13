@@ -135,29 +135,10 @@ a:visited {
 
 .section-title {
     background-color: #8C1300;
-    color: #B0AA92;
+    color: #F0DEA3;
     padding: 2% 0 2% 0.5rem;
     margin-bottom: 0.5rem;
     font-size: 1.3rem;
-}
-
-.second-nav {
-    margin-top: 0.2rem;
-}
-
-.first-main-link {
-    background-color: #CC8A2B;
-    padding: 2% 0 2% 0.5rem;
-    margin-bottom: 0.8rem;
-    font-size: 1.3rem;
-}
-.first-main-link a {
-    color: #FFF2C6;
-}
-.first-main-link a:hover,
-.first-main-link a:active{
-    color: #CFCDBC;
-    text-decoration: none;
 }
 
 .link {
@@ -169,4 +150,28 @@ a:visited {
 .link:last-child {
     margin-bottom: 0;
     border: 0;
+}
+
+.second-nav {
+    margin-top: 0.2rem;
+}
+
+.main-link {
+    background-color: #CC8A2B;
+    padding: 2% 0 2% 0.5rem;
+    margin-bottom: 0.8rem;
+    font-size: 1.3rem;
+}
+.main-link a {
+    color: #FFF2C6;
+}
+.main-link a:hover,
+.main-link a:active{
+    color: #CFCDBC;
+    text-decoration: none;
+}
+
+.noteworthy {
+    font-weight: bold;
+    font-size: 1.1em;
 }
