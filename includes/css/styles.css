@@ -133,6 +133,34 @@ cite,
 cite:before  {
     content: '- ';
 }
+
+footer {
+    font-size: 0.8em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+footer p {
+    text-align: center;
+}
+
+address {
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 0;
+    text-align: right;
+    width: 50%;
+}
+
+.copyright {
+    text-align: left;
+    display: inline-block;
+    width: 49%;
+    font-size: 0.8em;
+    line-height: 0.9em;
+}
 /** END Generic Element Styles **/
 
 .company-name {
@@ -147,12 +175,20 @@ cite:before  {
     background-color: #8C1300;
 }
 
+footer,
 .section-title {
     background-color: #8C1300;
-    color: #F0DEA3;
+    color: #FFF;
+}
+.section-title {
     padding: 2% 0 2% 0.5rem;
     margin-bottom: 0.5rem;
     font-size: 1.3rem;
+}
+.section-title,
+footer p {
+    font-family: Volkhov, serif;
+    font-style: italic;
 }
 
 .link {
@@ -174,10 +210,11 @@ cite:before  {
     background-color: #CC8A2B;
     padding: 2% 0 2% 0.5rem;
     margin-bottom: 0.8rem;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    color: #000;
 }
 .main-link a {
-    color: #FFF2C6;
+    color: #000;
 }
 .main-link a:hover,
 .main-link a:active{
@@ -185,7 +222,27 @@ cite:before  {
     text-decoration: none;
 }
 
+
+
+.address-link {
+    font-size: 0.9em;
+    line-height: 1rem;
+}
+.address-link a {
+    color: #FFF;
+    font-size: 0.9em;
+}
+.address-link a:hover,
+.address-link a:active {
+    color: #DBDBDB;
+    text-decoration: underline;
+}
+
 .noteworthy {
     font-weight: bold;
     font-size: 1.1em;
+}
+
+.credit {
+    font-size: 0.9em;
 }
