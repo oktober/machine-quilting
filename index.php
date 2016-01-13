@@ -38,18 +38,18 @@
     <nav>
         <h2 class="section-title">Get Started</h2>
         <div class="info-group">
-            <div class="link"><a href="">Pricing >></a></div>
-            <div class="link"><a href="">Patterns >></a></div>
-            <div class="link"><a href="">Thread &amp; Batting >></a></div>
-            <div class="link"><a href="">Preparation Checklist >></a></div>
-            <div class="link"><a href="">Order Information >></a></div>
+            <div class="link"><a href="">Pricing &gt;&gt;</a></div>
+            <div class="link"><a href="">Patterns &gt;&gt;</a></div>
+            <div class="link"><a href="">Thread &amp; Batting &gt;&gt;</a></div>
+            <div class="link"><a href="">Preparation Checklist &gt;&gt;</a></div>
+            <div class="link"><a href="">Order Information &gt;&gt;</a></div>
         </div>
     </nav>
 
     <nav class="second-nav">
-        <div class="main-link"><a href="">Photo Gallery</a></div>
+        <div class="main-link"><a href="">Photo Gallery &gt;&gt;</a></div>
         <p>Maybe add a teaser image here (that is also clickable)</p>
-        <div class="main-link"><a href="">About Quilts 4 You</a></div>
+        <div class="main-link"><a href="">About Quilts 4 You &gt;&gt;</a></div>
     </nav>
 
 
