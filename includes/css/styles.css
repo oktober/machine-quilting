@@ -68,7 +68,6 @@ footer {
 }
 
 header {
-    margin-bottom: 0.5rem;
     background-color: #CC8A2B;
     overflow: hidden;
 }
@@ -86,6 +85,8 @@ header {
 }
 /** END Container Styles **/
 
+
+/** Generic Element Styles **/
 img {
     margin: 0.5rem 0.5rem 0 0.5rem;
     width: 215px;
@@ -100,22 +101,9 @@ h1 {
     margin-right: 5px;
     line-height: 1.2rem;
 }
-.company-name {
-    font-size: 0.9rem;
-    font-weight: bold;
-}
 
 p {
     margin-bottom: 5%;
-}
-
-.section-title {
-    background-color: #8C1300;
-    color: #B0AA92;
-    padding: 2% 0 2% 0.5rem;
-    margin-bottom: 0.5rem;
-    font-size: 1.3rem;
-    font-weight: bold;
 }
 
 a {
@@ -124,12 +112,52 @@ a {
 }
 a:hover,
 a:active
- {
+{
     color: #78766F;
     text-decoration: underline;
 }
 a:visited {
+    color: #78766F;
+}
+/** END Generic Element Styles **/
 
+.company-name {
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.divider {
+    height: 40px;
+    border: none;
+    margin-top: 0;
+    background-color: #8C1300;
+}
+
+.section-title {
+    background-color: #8C1300;
+    color: #B0AA92;
+    padding: 2% 0 2% 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+}
+
+.second-nav {
+    margin-top: 0.2rem;
+}
+
+.first-main-link {
+    background-color: #CC8A2B;
+    padding: 2% 0 2% 0.5rem;
+    margin-bottom: 0.8rem;
+    font-size: 1.3rem;
+}
+.first-main-link a {
+    color: #FFF2C6;
+}
+.first-main-link a:hover,
+.first-main-link a:active{
+    color: #CFCDBC;
+    text-decoration: none;
 }
 
 .link {

@@ -27,6 +27,8 @@
     </div>
 </header>
 
+<hr class="divider">
+
 <section class="info-group">
     <p>At Quilts 4 You, we are dedicated to providing you with the best long arm quilting service in a timely manner.</p>
     <p>Your quilt will always be unique and specially made just for you. We have XXXX years of free motion quilting experience and are confident in our ability to deliver beautiful, custom quilts in a reasonable amount of time.</p>
@@ -34,7 +36,7 @@
 </section>
 
 <nav>
-    <h2 class="section-title">Get Started!</h2>
+    <h2 class="section-title">Get Started</h2>
     <div class="info-group">
         <div class="link"><a href="">Pricing >></a></div>
         <div class="link"><a href="">Patterns >></a></div>
@@ -44,14 +46,14 @@
     </div>
 </nav>
 
-<hr>
+<nav class="second-nav">
+    <div class="first-main-link"><a href="">Photo Gallery</a></div>
+    <p>Maybe add a teaser image here (that is also clickable)</p>
+    <div class="first-main-link"><a href="">About Quilts 4 You</a></div>
+</nav>
 
-<section>
-    <h2>Learn More</h2>
-    <a href="">Photo Gallery</a><br>
-    <a href="">About Quilts 4 You</a>
-    <p>Create a Contact Us form here</p>
-</section>
+
+<p>Create a Contact Us form here</p>
 
 <hr>
 
