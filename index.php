@@ -49,9 +49,7 @@
 
     <nav class="second-nav">
         <div class="main-link"><a href="">Photo Gallery &gt;&gt;</a></div>
-        <p>TODO: Add something here (fill up this space)</p>
         <div class="main-link"><a href="">About Quilts 4 You &gt;&gt;</a></div>
-        <p>TODO: Add something here (fill up this space)</p>
     </nav>
 
     <section>
