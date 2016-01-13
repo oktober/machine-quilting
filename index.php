@@ -49,16 +49,15 @@
 
     <nav class="second-nav">
         <div class="main-link"><a href="">Photo Gallery &gt;&gt;</a></div>
-        <p>Maybe add a teaser image here (that is also clickable)</p>
+        <p>TODO: Add something here (fill up this space)</p>
         <div class="main-link"><a href="">About Quilts 4 You &gt;&gt;</a></div>
+        <p>TODO: Add something here (fill up this space)</p>
     </nav>
 
-
-    <hr>
-
-    <p>TODO: Create a Contact Us form here</p>
-
-    <hr>
+    <section>
+        <h2 class="section-title">Contact Us</h2>
+        <p>TODO: Create a Contact Us form here</p>
+    </section>
 
     <section>
         <h2 class="section-title">New Customer Discount</h2>
