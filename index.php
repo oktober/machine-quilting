@@ -65,8 +65,6 @@
         <p class="info-group">Are you a new customer? Bring in your quilt(s) and mention our new customer discount to receive <span class="noteworthy">10% off your machine quilting charge!</span></p>
     </section>
 
-    <hr>
-
     <section>
         <h2 class="section-title">Customer Reviews</h2>
 
