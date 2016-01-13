@@ -119,6 +119,18 @@ a:active
 a:visited {
     color: #78766F;
 }
+
+q {
+    font-size: 0.95em;
+}
+cite {
+    display: block;
+    text-align: right;
+    font-size: 0.8em;
+}
+cite:before  {
+    content: '- ';
+}
 /** END Generic Element Styles **/
 
 .company-name {

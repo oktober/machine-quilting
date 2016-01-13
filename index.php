@@ -67,29 +67,33 @@
     <hr>
 
     <section>
-        <h2>Hear from our satisfied customers</h2>
+        <h2 class="section-title">Customer Reviews</h2>
 
-        <q>I received my quilt on Saturday and it is beautiful, you did a great job! I have already put the binding on and it is ready to mail to the bride and groom... Again, thanks for the beautiful quilt and I look forward working with you in the future.</q>
-        <cite>Jeanice S. in North Carolina</cite>
+        <div class="info-group">
+            <q>I received my quilt on Saturday and it is beautiful, you did a great job! I have already put the binding on and it is ready to mail to the bride and groom... Again, thanks for the beautiful quilt and I look forward working with you in the future.</q>
+            <cite>Jeanice S. in North Carolina</cite>
 
-        <br><br>
-        <q>I was very pleased with your work. You helped me very much with my first big project. I would certainly recommend you to others! Thank you for all your help!</q>
-        <cite>Linda K. in Utah</cite>
+            <br><br>
+            <q>I was very pleased with your work. You helped me very much with my first big project. I would certainly recommend you to others! Thank you for all your help!</q>
+            <cite>Linda K. in Utah</cite>
 
-        <br><br>
-        <q>As always, Ann does an impeccable job with both design and technique. The quilt required a lot of time and effort from me to piece and I appreciate her taking equal time and effort to help in creating a treasured keepsake. Thanks Ann!</q>
-        <cite>Sherida P. in Utah</cite><br>
-        <a>Add image here with a popup showing the quilt (kaleidoscopequilt.jpg)</a>
+            <br><br>
+            <q>As always, Ann does an impeccable job with both design and technique. The quilt required a lot of time and effort from me to piece and I appreciate her taking equal time and effort to help in creating a treasured keepsake. Thanks Ann!</q>
+            <cite>Sherida P. in Utah</cite><br>
+            <a>Add image here with a popup showing the quilt (kaleidoscopequilt.jpg)</a>
 
-        <br><br>
-        <q>I am so pleased! It is absolutely beautiful! You did just exactly what I wanted, and I can't thank you enough!</q>
-        <cite>JS in Nevada</cite>
+            <br><br>
+            <q>I am so pleased! It is absolutely beautiful! You did just exactly what I wanted, and I can't thank you enough!</q>
+            <cite>JS in Nevada</cite>
 
-        <br><br>
-        <q>Thank you soooooooo much. It is beautiful and I can not wait for my husband to come home and see it on the bed. You really did a beautiful job. I have a label and I am excited to affix it on the back. I am the proud owner of a quilt that Ann Morgan Quilted!!!!! It is wonderful. I really love the designs. Can't wait to show it off at work tomorrow!!!</q>
-        <cite>Caryl J. in Utah</cite><br>
-        <a>Add image here with a popup showing the quilt (sunflower_quilt.jpg)</a>
+            <br><br>
+            <q>Thank you soooooooo much. It is beautiful and I can not wait for my husband to come home and see it on the bed. You really did a beautiful job. I have a label and I am excited to affix it on the back. I am the proud owner of a quilt that Ann Morgan Quilted!!!!! It is wonderful. I really love the designs. Can't wait to show it off at work tomorrow!!!</q>
+            <cite>Caryl J. in Utah</cite><br>
+            <a>Add image here with a popup showing the quilt (sunflower_quilt.jpg)</a>
+        </div>
     </section>
+
+    <hr>
 
     <footer>
         <address>
