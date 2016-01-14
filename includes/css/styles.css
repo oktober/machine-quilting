@@ -79,12 +79,6 @@ header {
 
 
 /** Generic Element Styles **/
-img {
-    margin: 0.5rem 0.5rem 0 0.5rem;
-    width: 190px;
-
-}
-
 h1 {
     display: inline-block;
     text-align: justify;
@@ -140,26 +134,15 @@ address {
     text-align: right;
     width: 45%;
 }
-
-.footer-info {
-    text-align: left;
-    display: inline-block;
-    width: 55%;
-    vertical-align: top;
-}
-
-.summary {
-    line-height: 1.5;
-    font-size: 0.8em;
-}
-
-.copyright {
-    margin-top: 20px;
-    font-size: 0.7em;
-    line-height: 1;
-    color: #C89765;
-}
 /** END Generic Element Styles **/
+
+
+/** Class Styles **/
+img.logo {
+    margin: 0.5rem 0.5rem 0 0.5rem;
+    width: 190px;
+
+}
 
 .company-name {
     font-size: 0.9rem;
@@ -178,11 +161,13 @@ footer,
     background-color: #8C1300;
     color: #FFF;
 }
+
 .section-title {
     padding: 2% 0 2% 0.5rem;
     margin-bottom: 0.5rem;
     font-size: 1.3rem;
 }
+
 .section-title,
 .summary {
     font-family: Volkhov, serif;
@@ -220,7 +205,33 @@ footer,
     text-decoration: none;
 }
 
+.noteworthy {
+    font-weight: bold;
+    font-size: 1.1em;
+}
 
+.footer-info {
+    text-align: left;
+    display: inline-block;
+    width: 55%;
+    vertical-align: top;
+}
+
+.summary {
+    line-height: 1.5;
+    font-size: 0.8em;
+}
+
+.copyright {
+    margin-top: 20px;
+    font-size: 0.7em;
+    line-height: 1;
+    color: #C89765;
+}
+
+.credit {
+    font-size: 0.9em;
+}
 
 .address-link {
     font-size: 0.9em;
@@ -235,15 +246,8 @@ footer,
     color: #DBDBDB;
     text-decoration: underline;
 }
+/** END Class Styles **/
 
-.noteworthy {
-    font-weight: bold;
-    font-size: 1.1em;
-}
-
-.credit {
-    font-size: 0.9em;
-}
 
 /** Lightbox Styles **/
 div.lightbox {
