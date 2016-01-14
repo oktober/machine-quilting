@@ -75,23 +75,37 @@
             <cite>Linda K. from UT</cite>
 
             <br>
+            <div id="kaleidoscope-review"></div>
             <q>As always, Ann does an impeccable job with both design and technique. The quilt required a lot of time and effort from me to piece and I appreciate her taking equal time and effort to help in creating a treasured keepsake. Thanks Ann!</q>
             <cite>Sherida P. from UT</cite>
-            <p class="image-popup"><a href="includes/images/customer_review_quilts/kaleidoscopequilt-xs.jpeg">TODO: View the quilt</a></p>
+            <p class="image-popup"><a href="#kaleidoscope">View the finished quilt</a></p>
+            <div class="lightbox" id="kaleidoscope">
+                <figure>
+                    <a href="#kaleidoscope-review" class="closemsg"></a>
+                    <img src="includes/images/customer_review_quilts/kaleidoscopequilt-xs.jpeg" alt="Picture of kaleidoscope quilt quilted by Ann Morgan">
+                </figure>
+            </div>
 
             <br>
             <q>I am so pleased! It is absolutely beautiful! You did just exactly what I wanted, and I can't thank you enough!</q>
             <cite>JS from NV</cite>
 
             <br>
+            <div id="sunflower-review"></div>
             <q>Thank you soooooooo much. It is beautiful and I can not wait for my husband to come home and see it on the bed. You really did a beautiful job. I have a label and I am excited to affix it on the back. I am the proud owner of a quilt that Ann Morgan Quilted!!!!! It is wonderful. I really love the designs. Can't wait to show it off at work tomorrow!!!</q>
             <cite>Caryl J. from UT</cite>
-            <p class="image-popup"><a href="includes/images/customer_review_quilts/sunflower_quilt-xs.jpeg">TODO: View the quilt</a></p>
+            <p class="image-popup"><a href="#sunflower">View the finished quilt</a></p>
+            <div class="lightbox" id="sunflower">
+                <figure>
+                    <a href="#sunflower-review" class="closemsg"></a>
+                    <img src="includes/images/customer_review_quilts/sunflower_quilt-xs.jpeg" alt="Picture of sunflower quilt quilted by Ann Morgan">
+                </figure>
+            </div>
         </div>
     </section>
 
     <footer>
-        <p>Your destination for machine quilting and quilting supplies for Utah &amp; the continental US</p>
+        <p>Your destination for machine quilting &amp; quilting supplies for Utah &amp; the continental US</p>
 
         <section class="copyright">
             &copy;2016 Quilts 4 You
