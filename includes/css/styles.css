@@ -280,7 +280,7 @@ div.lightbox figure {
 div.lightbox figure img {
     display: block;
     margin: auto;
-    padding: 8px;
+    padding: 10px;
     background-color: #B0AA92;
     height: 250px;
     position: relative;
