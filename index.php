@@ -104,12 +104,17 @@
     </section>
 
     <footer>
-        <p>Your destination for machine quilting &amp; quilting supplies for Utah &amp; the continental US</p>
 
-        <section class="copyright">
-            &copy;2016 Quilts 4 You
-            <br><br>
-            <span class="credit">Designed &amp; Built by: Techie Grit</span>
+
+        <section class="footer-info">
+            <p class="summary">
+                Your destination for machine quilting and quilting supplies for Utah &amp; the continental US
+            </p>
+            <p class="copyright">
+                &copy;2016 Quilts 4 You
+                <br><br>
+                <span class="credit">Designed &amp; Built by: Techie Grit</span>
+            </p>
         </section><!--
         --><address>
             Quilts 4 You<br>
