@@ -17,8 +17,7 @@
     <header>
         <div class="logo-container">
             <img src="includes/images/logo_small_cropped.png" alt="Quilts 4 You Logo">
-        </div><!--
-        --><div class="tagline-container">
+        </div><div class="tagline-container">
             <h1>
                 <span class="company-name">Quilts 4 You</span><br>
                 for your<br>
@@ -111,9 +110,8 @@
             &copy;2016 Quilts 4 You
             <br><br>
             <span class="credit">Designed &amp; Built by: Techie Grit</span>
-        </section>
-
-        <address>
+        </section><!--
+        --><address>
             Quilts 4 You<br>
             <div class="address-link">
                 <a href="https://www.google.com/maps/place/647+Bristlecone+Ln,+Delta,+UT+84624/@39.351987,-112.561154,15z/data=!4m2!3m1!1s0x874cb587c6ee9dc9:0xfb0bb9aa2960a30d?hl=en" target="_blank" rel="nofollow">647 E Bristlecone Lane<br>
