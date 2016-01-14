@@ -82,7 +82,7 @@ h1 {
     text-align: justify;
     vertical-align: middle;
     font-size: 0.9rem;
-    margin-right: 5px;
+    margin-right: 0.4rem;
     line-height: 1.4;
 }
 
@@ -107,6 +107,7 @@ a:visited {
 q {
     font-size: 0.95em;
 }
+
 cite,
 .image-popup {
     display: block;
@@ -119,7 +120,7 @@ cite:before  {
 }
 
 footer {
-    margin-top: 10px;
+    margin-top: 0.5rem;
     margin-bottom: 0;
     overflow: hidden;
     padding-top: 20px;
@@ -128,7 +129,6 @@ footer {
 address {
     font-size: 0.7em;
     display: inline-block;
-    margin-bottom: 10px;
     text-align: right;
     width: 45%;
 }
@@ -136,10 +136,9 @@ address {
 
 
 /** Class Styles **/
-img.logo {
+.logo {
     margin: 0.5rem 0.5rem 0 0.5rem;
     width: 190px;
-
 }
 
 .company-name {
@@ -160,8 +159,12 @@ footer,
     color: #FFF;
 }
 
+.main-link,
 .section-title {
     padding: 2% 0 2% 0.5rem;
+}
+
+.section-title {
     margin-bottom: 0.5rem;
     font-size: 1.3rem;
 }
@@ -174,8 +177,8 @@ footer,
 
 .link {
     width: 90%;
-    margin-bottom: 5px;
-    padding-bottom: 5px;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
     border-bottom: 1px solid #B0AA92;
 }
 .link:last-child {
@@ -189,7 +192,6 @@ footer,
 
 .main-link {
     background-color: #CC8A2B;
-    padding: 2% 0 2% 0.5rem;
     margin-bottom: 0.8rem;
     font-size: 1.2rem;
     color: #000;
@@ -221,7 +223,7 @@ footer,
 }
 
 .copyright {
-    margin-top: 20px;
+    margin-top: 1.2rem;
     font-size: 0.7em;
     line-height: 1;
     color: #C89765;
@@ -280,8 +282,6 @@ div.lightbox figure img {
     overflow: auto;
     border: 1px #000000 solid;
     border-radius: 10px;
-    text-align: justify;
-    font-size: 14px;
 }
 
 div.lightbox figure .closemsg {
@@ -292,6 +292,7 @@ div.lightbox figure .closemsg {
     text-align: right;
     z-index: 2;
     cursor: default;
+    font-size: 1.2rem;
 }
 
 div.lightbox figure .closemsg, div.lightbox figure img {

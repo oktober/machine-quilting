@@ -50,6 +50,7 @@
     <nav class="second-nav">
         <div class="main-link"><a href="">Photo Gallery &gt;&gt;</a></div>
         <div class="main-link"><a href="">About Quilts 4 You &gt;&gt;</a></div>
+        <div class="main-link"><a href="">Quilt Shop &gt;&gt;</a></div>
     </nav>
 
     <section>
