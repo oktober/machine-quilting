@@ -94,6 +94,7 @@ a {
     text-decoration: none;
 }
 a:hover,
+a:focus,
 a:active
 {
     color: #78766F;
@@ -198,9 +199,10 @@ footer,
     color: #000;
 }
 .main-link a:hover,
+.main-link a:focus,
 .main-link a:active{
     color: #CFCDBC;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .noteworthy {
@@ -240,6 +242,7 @@ footer,
     font-size: 0.9em;
 }
 .address-link a:hover,
+.address-link a:focus,
 .address-link a:active {
     color: #DBDBDB;
     text-decoration: underline;
