@@ -45,8 +45,7 @@ table {
 /** Container Styles **/
 body {
     background-color: #FFFAC6;
-    font: 1.2em Ubuntu, sans-serif;
-    line-height: 1.5;
+    font: 1em/1.5 Ubuntu, sans-serif;
 }
 
 .info-group,
@@ -66,8 +65,7 @@ header {
 }
 .tagline-container {
     float: right;
-    width: 130px;
-    margin-top: 34px;
+    margin-top: 15px;
     margin-right: 5px;
     background-color: #CC8A2B;
     text-align: right;
@@ -136,7 +134,7 @@ address {
 
 /** Class Styles **/
 .logo {
-    width: 190px;
+    width: 160px;
     margin: 0.5rem 0.5rem 0 0.5rem;
 }
 
