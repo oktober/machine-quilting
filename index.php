@@ -9,6 +9,7 @@
     <!--<link rel="shortcut icon" href="includes/images/favicon.ico">-->
     <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Volkhov:400,700italic,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="includes/css/normalize.css">
     <link rel="stylesheet" href="includes/css/styles.css">
 </head>
 
@@ -56,7 +57,32 @@
 
     <section>
         <h2 class="section-title">Contact Us</h2>
-        <p>TODO: Create a Contact Us form here</p>
+        <div class="info-group contact-form">
+            <p>We'd love to hear from you!</p>
+            <form action="" method="POST">
+                <div class="form-field">
+                    <label for="name-field" class="text-label">Name:</label>
+                    <input type="text" id="name-field" name="name-field" class="text-field" required>
+                </div>
+
+                <div class="form-field">
+                    <label for="email-field" class="text-label">Email:</label>
+                    <input type="email" id="email-field" name="email-field" class="text-field" required>
+                </div>
+
+                <div class="form-field">
+                    <label for="message-field" class="message-label">Message:
+                        <textarea id="message-field" name="message-field" class="message-field" required></textarea>
+                    </label>
+                </div>
+
+                <div class="form-field submit-field">
+                    <input type="submit" name="submit-contact" value="Send Message">
+                </div>
+
+
+            </form>
+        </div>
     </section>
 
     <section>
