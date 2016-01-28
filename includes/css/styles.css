@@ -147,6 +147,9 @@ header {
         .text-field {
             width: 75%;
         }
+        .mname-field {
+            display: none;
+        }
         .message-field {
             width: 96%;
         }

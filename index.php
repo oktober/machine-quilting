@@ -62,6 +62,7 @@
                 <div class="form-field">
                     <label for="name-field" class="text-label">Name:</label>
                     <input type="text" id="name-field" name="name-field" class="text-field" required>
+                    <input type="text" id="mname" name="mname" class="mname-field">
                 </div>
 
                 <div class="form-field">
