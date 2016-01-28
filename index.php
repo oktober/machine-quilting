@@ -9,7 +9,6 @@
     <!--<link rel="shortcut icon" href="includes/images/favicon.ico">-->
     <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Volkhov:400,700italic,400italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="includes/css/normalize.css">
     <link rel="stylesheet" href="includes/css/styles.css">
 </head>
 
