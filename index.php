@@ -57,7 +57,7 @@
     <section>
         <h2 class="section-title">Contact Us</h2>
         <div class="info-group contact-form">
-            <p>We'd love to hear from you!</p>
+            <h3>We'd love to hear from you!</h3>
             <form action="" method="POST">
                 <div class="form-field">
                     <label for="name-field" class="text-label">Name:</label>
