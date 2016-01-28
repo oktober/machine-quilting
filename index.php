@@ -33,7 +33,7 @@
 
     <section class="info-group">
         <p>At Quilts 4 You, we are dedicated to providing you with the best long arm quilting service in a timely manner.</p>
-        <p>Your quilt will always be unique and specially made just for you. We have XXXX years of free motion quilting experience and are confident in our ability to deliver beautiful, custom quilts in a reasonable amount of time.</p>
+        <p>Your quilt will always be unique and specially made just for you. We have 16 years of free motion quilting experience and are confident in our ability to deliver beautiful, custom quilts in a reasonable amount of time.</p>
         <p>We have many patterns to choose from and are continually adding to our selection. We look forward to collaborating with you to find a pattern that will enhance and showcase your beautiful quilt.</p>
     </section>
 
@@ -61,7 +61,7 @@
 
     <section>
         <h2 class="section-title">New Customer Discount</h2>
-        <p class="info-group">Are you a new customer? Bring in your quilt(s) and mention our new customer discount to receive <span class="noteworthy">10% off your machine quilting charge!</span></p>
+        <p class="info-group">Are you a new customer? Bring in your quilt and mention our new customer discount to receive <span class="noteworthy">10% off your first machine quilting charge!</span></p>
     </section>
 
     <section>
@@ -79,7 +79,7 @@
             <div id="kaleidoscope-review"></div>
             <q>As always, Ann does an impeccable job with both design and technique. The quilt required a lot of time and effort from me to piece and I appreciate her taking equal time and effort to help in creating a treasured keepsake. Thanks Ann!</q>
             <cite>Sherida P. from UT</cite>
-            <p class="image-popup"><a href="#kaleidoscope" title="Click to view Sherida's finished quilt">View the finished quilt</a></p>
+            <p class="image-popup"><a href="#kaleidoscope" title="Click to view Sherida's finished quilt">Click to view finished quilt</a></p>
             <div class="lightbox" id="kaleidoscope">
                 <figure>
                     <a href="#kaleidoscope-review" class="closemsg" title="Click to close image"></a>
@@ -97,7 +97,7 @@
             <div id="sunflower-review"></div>
             <q>Thank you soooooooo much. It is beautiful and I can not wait for my husband to come home and see it on the bed. You really did a beautiful job. I have a label and I am excited to affix it on the back. I am the proud owner of a quilt that Ann Morgan Quilted!!!!! It is wonderful. I really love the designs. Can't wait to show it off at work tomorrow!!!</q>
             <cite>Caryl J. from UT</cite>
-            <p class="image-popup"><a href="#sunflower" title="Click to view Caryl's finished quilt">View the finished quilt</a></p>
+            <p class="image-popup"><a href="#sunflower" title="Click to view Caryl's finished quilt">Click to view finished quilt</a></p>
             <div class="lightbox" id="sunflower">
                 <figure>
                     <a href="#sunflower-review" class="closemsg" title="Click to close image"></a>
@@ -112,11 +112,6 @@
             <p class="summary">
                 Your destination for machine quilting and quilting supplies for Utah &amp; the continental US
             </p>
-            <p class="copyright">
-                &copy;2016 Quilts 4 You
-                <br><br>
-                <span class="credit">Designed &amp; Built by: Techie Grit</span>
-            </p>
         </section><!--
         --><address>
             Quilts 4 You<br>
@@ -127,6 +122,13 @@
                     (Click for map)</a>
             </div>
         </address>
+        <section>
+            <p class="copyright">
+                &copy;2016 Quilts 4 You/Heartspun Treasures
+                <br><br>
+                <span class="credit">Designed &amp; Built by: Techie Grit</span>
+            </p>
+        </section>
     </footer>
 
 </body>

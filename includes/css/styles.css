@@ -117,6 +117,10 @@ cite:before  {
     content: '- ';
 }
 
+.image-popup a {
+    text-decoration: underline;
+}
+
 footer {
     overflow: hidden;
     padding-top: 20px;
@@ -170,6 +174,11 @@ footer,
 .summary {
     font-style: italic;
     font-family: Volkhov, serif;
+}
+
+.info-group {
+    font-size: 1.15rem;
+    text-align: justify;
 }
 
 .link {
