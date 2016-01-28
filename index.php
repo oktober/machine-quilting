@@ -39,19 +39,19 @@
 
     <nav>
         <h2 class="section-title">Get Started</h2>
-        <div class="info-group">
-            <div class="link"><a href="page.php" title="Link to Pricing page">Pricing &gt;&gt;</a></div>
-            <div class="link"><a href="page.php" title="Link to Patterns page">Patterns &gt;&gt;</a></div>
-            <div class="link"><a href="page.php" title="Link to Thread and Batting page">Thread &amp; Batting &gt;&gt;</a></div>
-            <div class="link"><a href="page.php" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</a></div>
-            <div class="link"><a href="page.php" title="Link to Order Information">Order Information &gt;&gt;</a></div>
+        <div class="info-group started-links">
+            <a href="page.php" title="Link to Pricing page">Pricing &gt;&gt;</a>
+            <a href="page.php" title="Link to Patterns page">Patterns &gt;&gt;</a>
+            <a href="page.php" title="Link to Thread and Batting page">Thread &amp; Batting &gt;&gt;</a>
+            <a href="page.php" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</a>
+            <a href="page.php" title="Link to Order Information">Order Information &gt;&gt;</a>
         </div>
     </nav>
 
     <nav class="second-nav">
-        <div class="main-link"><a href="" title="Link to Photo Gallery">Photo Gallery &gt;&gt;</a></div>
-        <div class="main-link"><a href="" title="Link to About Quilts 4 You">About Quilts 4 You &gt;&gt;</a></div>
-        <div class="main-link"><a href="" title="Link to Quilt Shop">Quilt Shop &gt;&gt;</a></div>
+        <a href="" title="Link to Photo Gallery">Photo Gallery &gt;&gt;</a>
+        <a href="" title="Link to About Quilts 4 You">About Quilts 4 You &gt;&gt;</a>
+        <a href="" title="Link to Quilt Shop">Quilt Shop &gt;&gt;</a>
     </nav>
 
     <section>
@@ -78,8 +78,6 @@
                 <div class="form-field submit-field">
                     <input type="submit" name="submit-contact" value="Send Message">
                 </div>
-
-
             </form>
         </div>
     </section>
