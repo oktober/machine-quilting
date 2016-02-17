@@ -1,9 +1,9 @@
 <?php
-
 require_once('phpmailer/PHPMailerAutoload.php');
-require_once('../includes/creds.php');
 
 function setupMailer(){
+    require('creds.php');
+
     $mail = new PHPMailer;
 
     $mail->isSMTP();
@@ -16,15 +16,21 @@ function setupMailer(){
 }
 
 function sendEmail($fromName, $fromEmail, $message){
-    $mail = setupMailer();
+    require('creds.php');
 
-    $mail->From = $fromEmail;
-    $mail->FromName = $fromName;
-    $mail->addAddress($mailUsername, 'Quilts 4 You');
-    $mail->Subject = 'Inquiry from ' . $fromName;
-    $mail->WordWrap = 150;
-    $mail->Body    = $message;
-
-    $mail->send();
-
+    try {
+        $mail = setupMailer();
+        $mail->From = $fromEmail;
+        $mail->FromName = $fromName;
+        $mail->addAddress($mailUsername, 'Quilts 4 You');
+        $mail->Subject = 'Inquiry from ' . $fromName;
+        $mail->WordWrap = 150;
+        $mail->Body    = $message;
+        $mail->send();
+        return 'Message sent OK';
+    } catch (phpmailerException $e) {
+        return $e->errorMessage();
+    } catch (Exception $e) {
+        return $e->getMessage();
+    }
 }
