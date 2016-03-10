@@ -32,6 +32,11 @@
     <hr class="divider">
 
     <section class="info-group">
+        <?php
+            if($_GET['q']){
+                echo '<p class="noteworthy">Thank you for your message!</p>';
+            }
+        ?>
         <p>At Quilts 4 You, we are dedicated to providing you with the best long arm quilting service in a timely manner.</p>
         <p>Your quilt will always be unique and specially made just for you. We have 16 years of free motion quilting experience and are confident in our ability to deliver beautiful, custom quilts in a reasonable amount of time.</p>
         <p>We have many patterns to choose from and are continually adding to our selection. We look forward to collaborating with you to find a pattern that will enhance and showcase your beautiful quilt.</p>

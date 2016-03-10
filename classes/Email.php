@@ -27,7 +27,7 @@ function sendEmail($fromName, $fromEmail, $message){
         $mail->WordWrap = 150;
         $mail->Body    = $message;
         $mail->send();
-        return 'Message sent OK';
+        return 'Your message was sent successfully. Now redirecting you back to the home page...';
     } catch (phpmailerException $e) {
         return $e->errorMessage();
     } catch (Exception $e) {
