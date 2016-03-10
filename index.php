@@ -33,7 +33,7 @@
 
     <section class="info-group">
         <?php
-            if($_GET['q']){
+            if(isset($_GET['q']) && $_GET['q']){
                 echo '<p class="noteworthy">Thank you for your message!</p>';
             }
         ?>
@@ -160,5 +160,7 @@
         </section>
     </footer>
 
+    <script src="includes/js/jquery-1.12.1.min.js"></script>
+    <script src="includes/js/contact-ajax.js"></script>
 </body>
 </html>
