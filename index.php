@@ -62,7 +62,7 @@
     <section>
         <h2 class="section-title">Contact Us</h2>
         <div class="info-group contact-form">
-            <h3>We'd love to hear from you!</h3>
+            <h3 id="contact-title">We'd love to hear from you!</h3>
             <form action="pages/contact-us.php" method="POST">
                 <div class="form-field">
                     <label for="name-field" class="text-label">Name:</label>
