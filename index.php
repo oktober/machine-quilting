@@ -14,7 +14,14 @@
     <nav>
         <h2 class="section-title">Get Started</h2>
         <div class="info-group started-links">
-            <a href="pricing.php" title="Link to Pricing page">Pricing &gt;&gt;</a>
+            <a href="#" title="Link to Pricing page">Pricing &gt;&gt;</a>
+            <!-- expand this out when clicked -->
+            <section class="dropdown-info">
+                <h3 class="dropdown-title">Quilting Services</h3>
+                <p><span class="quilting-size">Crib (45"x60")</span> <span class="italicize">starting at <span class="bold">$33.75</span></span></p>
+                <p><span class="quilting-size">Youth (54"x72")</span> <span class="italicize">starting at <span class="bold">$48.60</span></span></p>
+            </section>
+
             <a href="page.php" title="Link to Patterns page">Patterns &gt;&gt;</a>
             <a href="page.php" title="Link to Thread and Batting page">Thread &amp; Batting &gt;&gt;</a>
             <a href="page.php" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</a>

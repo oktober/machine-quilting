@@ -33,10 +33,28 @@ a:visited {
     color: #78766F;
 }
 
+.bold {
+    font-weight: bold;
+}
+
+.italicize {
+    font-style: italic;
+}
+
 .noteworthy {
     font-size: 1.1em;
     font-weight: bold;
 }
+
+.dropdown-info {
+    font-size: 1rem;
+}
+    .dropdown-title {
+        font-weight: bold;
+    }
+    .quilting-size {
+        font-size: 1.1em;
+    }
 
 
 /** PAGE STRUCTURE **/
