@@ -23,6 +23,6 @@
 </footer>
 
 <script src="includes/js/jquery-1.12.1.min.js"></script>
-<script src="includes/js/contact-ajax.js"></script>
+<script src="includes/js/scripts.js"></script>
 </body>
 </html>

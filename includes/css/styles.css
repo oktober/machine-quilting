@@ -48,6 +48,7 @@ a:visited {
 
 .dropdown-info {
     font-size: 0.9rem;
+    display: none;
 }
     .dropdown-title {
         font-weight: bold;
