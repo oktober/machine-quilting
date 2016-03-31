@@ -47,7 +47,7 @@ a:visited {
 }
 
 .dropdown-info {
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
     .dropdown-title {
         font-weight: bold;
@@ -126,14 +126,15 @@ header {
 
 
 /** CONTENT & MEDIA **/
-.started-links a {
+.started-links p.title-link {
     display: block;
     width: 90%;
     padding-bottom: 0.5rem;
     border-bottom: 1px solid #B0AA92;
     margin-bottom: 0.5rem;
+    cursor: pointer;
 }
-.started-links a:last-child {
+.started-links p.title-link:last-child {
     border: 0;
     margin-bottom: 0;
 }

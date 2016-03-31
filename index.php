@@ -14,18 +14,24 @@
     <nav>
         <h2 class="section-title">Get Started</h2>
         <div class="info-group started-links">
-            <a href="#" title="Link to Pricing page">Pricing &gt;&gt;</a>
+            <p class="title-link" title="Click to view Pricing info">Pricing &gt;&gt;</p>
             <!-- expand this out when clicked -->
             <section class="dropdown-info">
-                <h3 class="dropdown-title">Quilting Services</h3>
+                <h3 class="dropdown-title">Quilting Services*</h3>
                 <p><span class="quilting-size">Crib (45"x60")</span> <span class="italicize">starting at <span class="bold">$33.75</span></span></p>
                 <p><span class="quilting-size">Youth (54"x72")</span> <span class="italicize">starting at <span class="bold">$48.60</span></span></p>
+                <p><span class="quilting-size">Twin (72"x90")</span> <span class="italicize">starting at <span class="bold">$81.00</span></span></p>
+                <p><span class="quilting-size">Full (80"x90")</span> <span class="italicize">starting at <span class="bold">$90.00</span></span></p>
+                <p><span class="quilting-size">Queen (90"x108")</span> <span class="italicize">starting at <span class="bold">$121.50</span></span></p>
+                <p><span class="quilting-size">King (96"x108")</span> <span class="italicize">starting at <span class="bold">$129.60</span></span></p>
+                <p><span class="quilting-size">XL King (108"x108")</span> <span class="italicize">starting at <span class="bold">$145.80</span></span></p>
+                <p style="font-size: 0.8rem;font-style: italic;"><span class="bold">*</span>Minimum quilting charge of $25 and minimum thread charge of $2. Additional charges and rush fees may apply. Please <a href="#contact-us-form">contact us for questions or a quote</a>.</p>
             </section>
 
-            <a href="page.php" title="Link to Patterns page">Patterns &gt;&gt;</a>
-            <a href="page.php" title="Link to Thread and Batting page">Thread &amp; Batting &gt;&gt;</a>
-            <a href="page.php" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</a>
-            <a href="page.php" title="Link to Order Information">Order Information &gt;&gt;</a>
+            <p class="title-link" title="Link to Patterns page">Patterns &gt;&gt;</p>
+            <p class="title-link" title="Link to Thread and Batting page">Thread &amp; Batting &gt;&gt;</p>
+            <p class="title-link" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</p>
+            <p class="title-link" title="Link to Order Information">Order Information &gt;&gt;</p>
         </div>
     </nav>
 
@@ -35,7 +41,7 @@
         <a href="" title="Link to Quilt Shop">Quilt Shop &gt;&gt;</a>
     </nav>
 
-    <section>
+    <section id="contact-us-form">
         <h2 class="section-title">Contact Us</h2>
         <div class="info-group contact-form">
             <h3 id="contact-title">We'd love to hear from you!</h3>
