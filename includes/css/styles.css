@@ -47,14 +47,24 @@ a:visited {
 }
 
 .dropdown-info {
-    font-size: 0.9rem;
     display: none;
+    font-size: 0.9rem;
 }
     .dropdown-title {
         font-weight: bold;
     }
     .quilting-size {
         font-size: 1.1em;
+    }
+    .comment {
+        font-size: 0.8rem;
+        font-style: italic;
+    }
+    .dropdown-info a {
+        text-decoration: underline;
+    }
+    .dropdown-info img {
+        width: 100%;
     }
 
 

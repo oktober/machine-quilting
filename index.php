@@ -15,7 +15,6 @@
         <h2 class="section-title">Get Started</h2>
         <div class="info-group started-links">
             <p class="title-link" title="Click to view Pricing info">Pricing &gt;&gt;</p>
-            <!-- expand this out when clicked -->
             <section class="dropdown-info">
                 <h3 class="dropdown-title">Quilting Services*</h3>
                 <p><span class="quilting-size">Crib (45"x60")</span> <span class="italicize">starting at <span class="bold">$33.75</span></span></p>
@@ -25,10 +24,24 @@
                 <p><span class="quilting-size">Queen (90"x108")</span> <span class="italicize">starting at <span class="bold">$121.50</span></span></p>
                 <p><span class="quilting-size">King (96"x108")</span> <span class="italicize">starting at <span class="bold">$129.60</span></span></p>
                 <p><span class="quilting-size">XL King (108"x108")</span> <span class="italicize">starting at <span class="bold">$145.80</span></span></p>
-                <p style="font-size: 0.8rem;font-style: italic;"><span class="bold">*</span>Minimum quilting charge of $25 and minimum thread charge of $2. Additional charges and rush fees may apply. Please <a href="#contact-us-form">contact us for questions or a quote</a>.</p>
+                <p class="comment"><span class="bold">*</span>Minimum quilting charge of $25 and minimum thread charge of $2. Additional charges and rush fees may apply. Please <a href="#contact-us-form">contact us for questions or a quote</a>.</p>
             </section>
 
             <p class="title-link" title="Link to Patterns page">Patterns &gt;&gt;</p>
+            <section class="dropdown-info">
+                <h3 class="dropdown-title">Custom Quilting Patterns</h3>
+                <p>You can choose between <span class="bold italicize">Stipple</span> or <span class="bold italicize">Loops</span> for the overall quilt pattern, then choose <span class="bold italicize">one accent pattern</span>.</p>
+                <p><a href="includes/files/basic-meandering-patterns.pdf" target="_blank">Basic Meandering Patterns <span class="italicize">(PDF download)</span></a></p>
+                <p>For 2+ accent patterns or Semi-Custom patterns, <span class="bold italicize">additional charges apply</span>.</p>
+                <p><a href="includes/files/basic-meandering-patterns.pdf" target="_blank">Semi-Custom Patterns <span class="italicize">(PDF download)</span></a></p>
+                <p>Please <a href="#contact-us-form">contact us</a> for questions or a quote.</p>
+                <p>
+                    <img src="includes/images/country-rose-and-stipple.jpg" alt="Image of Country Rose and Stipple Quilting Patterns">
+                    <br>
+                    <span class="comment">Example of Country Rose and Stipple patterns</span>
+                </p>
+            </section>
+
             <p class="title-link" title="Link to Thread and Batting page">Thread &amp; Batting &gt;&gt;</p>
             <p class="title-link" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</p>
             <p class="title-link" title="Link to Order Information">Order Information &gt;&gt;</p>
