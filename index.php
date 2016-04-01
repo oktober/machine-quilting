@@ -85,7 +85,10 @@
 
     <section>
         <h2 class="section-title">New Customer Discount</h2>
-        <p class="info-group">Are you a new customer? Bring in your quilt and mention our new customer discount to receive <span class="noteworthy">10% off your first machine quilting charge!</span></p>
+        <p class="info-group">
+            Are you a new customer? Bring in your quilt and mention our new customer discount to receive
+            <br> <span class="noteworthy">10% off your first machine quilting charge!</span>
+        </p>
     </section>
 
     <section>
