@@ -42,7 +42,25 @@
                 </p>
             </section>
 
-            <p class="title-link" title="Link to Thread and Batting page">Thread &amp; Batting &gt;&gt;</p>
+            <p class="title-link" title="Link to Thread and Batting page">Thread &gt;&gt;</p>
+            <section class="dropdown-info">
+                <h3 class="dropdown-title">Thread Colors:</h3>
+                <ul>
+                    <li>White, Cream, Black, Dark Grey, Dark Purple, Yellow Gold</li>
+                    <li><span class="bold">Pastels:</span> Light Blue, Light Yellow, Light Green, Light Lavender, Light Pink</li>
+                    <li><span class="bold">Blues:</span> Med Blue, Navy Blue, Royal Blue</li>
+                    <li><span class="bold">Greens:</span> Light Sage, Med Sage, Olive, Dark Forest, Christmas Green</li>
+                    <li><span class="bold">Reds:</span> Plum, Burgundy, Christmas Red, Rose </li>
+                    <li><span class="bold">Browns:</span> Dark Brown, Med Brown, Light Tan, Tan Gold</li>
+                </ul>
+                <p>
+                    <span class="comment">(Basic Thread: $2.00 per bobbin, double capacity)</span>
+                    <br>
+                    All threads are machine quilting quality. We will try to match your thread selection as close as possible.
+                </p>
+            </section>
+
+            <p class="title-link" title="Link to Thread and Batting page">Batting &gt;&gt;</p>
             <p class="title-link" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</p>
             <p class="title-link" title="Link to Order Information">Order Information &gt;&gt;</p>
         </div>
