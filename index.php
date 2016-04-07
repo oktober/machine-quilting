@@ -100,6 +100,74 @@
             </section>
 
             <p class="title-link" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</p>
+            <section class="dropdown-info">
+                <h3 class="dropdown-title">Is your quilt ready?</h3>
+                <p class="bold italicize">Did you use 100% cotton, high-quality fabric to help prevent irregular stitches?
+                    <ul>
+                        <li>For best results, <span class="bold">we recommend using 100% cotton, high-quality fabric</span>. Quilt shop quality fabric does make a difference.
+                            <br>If made of polyester-blend, tricot, denim or knit fabrics, the finished quilt may exhibit unavoidable stitching irregularities, stretching, or fabric running. Also, it is common for these fabrics to cause extra needle breakages and machine adjustments for tension setting and needle changes, <span class="bold">requiring additional time and cost</span>.
+                        </li>
+                    </ul>
+                </p>
+
+                <p class="bold italicize">Does your quilt top lay flat, free from puckering, stretched quilt blocks, or fullness in the borders?
+                <ul>
+                    <li>We can do our best workmanship when your quilt top will lay flat, free from puckering, stretched quilt blocks, or fullness in the borders. A <span class="bold">neatly pressed wrinkle-free quilt top</span> will make a nicer looking quilt in the end and cause fewer problems for the machine quilter.
+                        <br>If you do have a few problems in your piecing, we can assist you in choosing the proper batting to minimize the problem. It is also helpful to <span class="bold">have loose threads clipped</span> because they can interfere with the operation of the quilting machine.
+                    </li>
+                </ul>
+                </p>
+
+                <p class="bold italicize">Are all of your loose threads clipped?
+                <ul>
+                    <li>It is helpful to have loose threads clipped because they can interfere with the operation of the quilting machine.
+                    </li>
+                </ul>
+                </p>
+
+                <p class="bold italicize">Is your backing fabric 4" larger on all sides?
+                <ul>
+                    <li>
+                        Select a backing fabric that will blend with your dominate thread color. For more efficient quilting, we use the same thread on both the top and bottom of the quilt. The backing fabric needs to be 4" larger on all sides; this provides us with the extra fabric needed for mounting the quilt to the frame and centering your quilt if needed.
+                        <br><br>
+                        If your backing fabric needs to be pieced together, stitch a 1-inch seam allowance, trim the selvage edge, and press open to distribute the thickness of the seam.
+                        <br><br>
+                        If you need to add an additional strip of a fabric to the back, it is more attractive to your finished quilt to not have the additional seam less than 12" to 18" from the edge of your fabric. This will give the appearance that the backing fabric was planned. Adding borders around your backing fabric to enlarge the backing size is not recommended because it is impossible to center your quilt top in a specific area of the backing fabric on the long arm quilting frame.
+                    </li>
+                </ul>
+                </p>
+
+                <p class="bold italicize">Have you selected a thread color that compliments your quilt top fabrics?
+                <ul>
+                    <li>We use the same thread on both the top & bottom of your quilt. Select a thread color that compliments your quilt top fabrics from our variety of thread options. Our machine quilters will be glad to help you make your thread selection. The proper thread selection is essential to an attractive quilt.
+                    </li>
+                </ul>
+                </p>
+
+                <p class="bold italicize">Do you have any embellishments you'd like to add?
+                <ul>
+                    <li>If you are adding embellishments to your quilt, it is best to stitch them on after your quilt has been quilted. Adding them to the top before it is quilted may interfere with machine quilting and could damage your quilt.
+                    </li>
+                </ul>
+                </p>
+
+                <p class="bold italicize">Have you ensured your quilt layers are not pinned or basted together?
+                <ul>
+                    <li>It is best to not have your quilt layers pinned or basted together. When we mount your quilt to the frame, each layer moves independently. If your quilt happens to be attached together, there may possibly be tucks or gathers on the underside of the quilt. Once again, we will do our best workmanship.
+                    </li>
+                </ul>
+                </p>
+
+                <p class="bold italicize">Have you enclosed a plastic bag along with the completed Quilt Order Form if mailing?
+                <ul>
+                    <li>When mailing, be sure to enclose your quilt in a plastic bag along with the completed Quilt Order Form and insurance, and you will receive a tracking number. You will be notified upon receipt of your quilt either by email or phone. We haven't had any problems with the postal service or UPS, but why take a chance? Upon returning your quilt, it will be in a plastic enclosure and insured for the full value.
+                    </li>
+                </ul>
+                </p>
+
+                <p class="noteworthy">Taking time to properly prepare your quilt for machine quilting can mean a savings to you!
+            </section>
+
             <p class="title-link" title="Link to Order Information">Order Information &gt;&gt;</p>
         </div>
     </nav>
