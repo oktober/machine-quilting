@@ -33,7 +33,7 @@
                 <p>You can choose between <span class="bold italicize">Stipple</span> or <span class="bold italicize">Loops</span> for the overall quilt pattern, then choose <span class="bold italicize">one accent pattern</span>.</p>
                 <p><a href="includes/files/basic-meandering-patterns.pdf" target="_blank">Basic Meandering Patterns <span class="italicize">(PDF download)</span></a></p>
                 <p>For 2+ accent patterns or Semi-Custom patterns, <span class="bold italicize">additional charges apply</span>.</p>
-                <p><a href="includes/files/basic-meandering-patterns.pdf" target="_blank">Semi-Custom Patterns <span class="italicize">(PDF download)</span></a></p>
+                <p><a href="includes/files/semi-custom-patterns.pdf" target="_blank">Semi-Custom Patterns <span class="italicize">(PDF download)</span></a></p>
                 <p>Please <a href="#contact-us-form">contact us</a> for questions or a quote.</p>
                 <p>
                     <img src="includes/images/country-rose-and-stipple.jpg" alt="Image of Country Rose and Stipple Quilting Patterns">
