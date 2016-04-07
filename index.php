@@ -61,6 +61,44 @@
             </section>
 
             <p class="title-link" title="Link to Thread and Batting page">Batting &gt;&gt;</p>
+            <section class="dropdown-info">
+                <h3 class="dropdown-title">Quality Batting List:</h3>
+                <p class="bold italicize batting-type">100% Polyester</p>
+                <p><span class="italicize">3/8" Thick</span>
+                    <br>
+                    This is a very soft batt with just enough loft for a baby quilt or comforter. It's a step up from a flat batt. Very reasonable in price and a great choice for those that want a flat batt, but not the higher price. We can do more quilting on this batt to try to give the look of a flat batt; or we can do "airy" quilting to give it a loftier look.
+                    <br>
+                    <span class="bold comment">48" wide $4.49/yard</span>
+                    <br>
+                    <span class="bold comment">96" wide $6.49/yard</span>
+                </p>
+
+                <p><span class="italicize">1/2" Thick</span>
+                    <br>
+                    This is a denser batting. To best retain the loft of the polyester, less quilting is required (a more "airy" quilting). The more quilting that is done close together will make the quilt stiff and loose it's flexibility. Overall, this batt makes a nice comforter look and great for edge to edge quilting designs.
+                    <br>
+                    <span class="bold comment">48" wide $5.49/yard</span>
+                    <br>
+                    <span class="bold comment">96" wide $8.49/yard</span>
+                </p>
+
+                <p class="bold italicize batting-type">Hobbs 80% Cotton/20% Poly</p>
+                <p>
+                    This batt is very versatile. It is lightly needle punched and lightly resin bonded. It shrinks less than other cotton battings and has a little more loft. Great for machine quilting and soft enough for hand quilting (quilt up to 3 1/2" apart).
+                    <br>
+                    <span class="bold comment">96" wide $8.99/yard</span>
+                    <br>
+                    <span class="bold comment">120" wide $12.99/yard</span>
+                </p>
+
+                <p class="bold italicize batting-type">Hobbs 100% Cotton with Scrim</p>
+                <p>
+                    This batt is a great flat batt, very similar to Warm & Natural. The polypropylene scrim bonding makes it possible to quilt up to 8-10 inches apart. We don't recommend this batt for hand quilting, but it is great for machine quilting.
+                    <br>
+                    <span class="bold comment">96" wide $11.99/yard</span>
+                </p>
+            </section>
+
             <p class="title-link" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</p>
             <p class="title-link" title="Link to Order Information">Order Information &gt;&gt;</p>
         </div>

@@ -66,6 +66,9 @@ a:visited {
     .dropdown-info img {
         width: 100%;
     }
+    .batting-type {
+        border-bottom: 1px solid #ccc;
+    }
 
 
 /** PAGE STRUCTURE **/
