@@ -14,7 +14,7 @@
     <nav>
         <h2 class="section-title">Get Started</h2>
         <div class="info-group started-links">
-            <p class="title-link" title="Click to view Pricing info">Pricing &gt;&gt;</p>
+            <p class="title-link" title="Click to view Pricing info" id="pricing-section">Pricing &gt;&gt;</p>
             <section class="dropdown-info">
                 <h3 class="dropdown-title">Quilting Services*</h3>
                 <p><span class="quilting-size">Crib (45"x60")</span> <span class="italicize">starting at <span class="bold">$33.75</span></span></p>
@@ -27,7 +27,7 @@
                 <p class="comment"><span class="bold">*</span>Minimum quilting charge of $25 and minimum thread charge of $2. Additional charges and rush fees may apply. Please <a href="#contact-us-form">contact us for questions or a quote</a>.</p>
             </section>
 
-            <p class="title-link" title="Link to Patterns page">Patterns &gt;&gt;</p>
+            <p class="title-link" title="Link to Patterns page" id="patterns-section">Patterns &gt;&gt;</p>
             <section class="dropdown-info">
                 <h3 class="dropdown-title">Custom Quilting Patterns</h3>
                 <p>You can choose between <span class="bold italicize">Stipple</span> or <span class="bold italicize">Loops</span> for the overall quilt pattern, then choose <span class="bold italicize">one accent pattern</span>.</p>
@@ -42,7 +42,7 @@
                 </p>
             </section>
 
-            <p class="title-link" title="Link to Thread and Batting page">Thread &gt;&gt;</p>
+            <p class="title-link" title="Link to Thread and Batting page" id="thread-section">Thread &gt;&gt;</p>
             <section class="dropdown-info">
                 <h3 class="dropdown-title">Thread Colors:</h3>
                 <ul>
@@ -60,7 +60,7 @@
                 </p>
             </section>
 
-            <p class="title-link" title="Link to Thread and Batting page">Batting &gt;&gt;</p>
+            <p class="title-link" title="Link to Thread and Batting page" id="batting-section">Batting &gt;&gt;</p>
             <section class="dropdown-info">
                 <h3 class="dropdown-title">Quality Batting List:</h3>
                 <p class="bold italicize batting-type">100% Polyester</p>
@@ -99,7 +99,7 @@
                 </p>
             </section>
 
-            <p class="title-link" title="Link to Preparation Checklist">Preparation Checklist &gt;&gt;</p>
+            <p class="title-link" title="Link to Preparation Checklist" id="prep-section">Preparation Checklist &gt;&gt;</p>
             <section class="dropdown-info">
                 <h3 class="dropdown-title">Is your quilt ready?</h3>
                 <p class="bold italicize">Did you use 100% cotton, high-quality fabric to help prevent irregular stitches?
@@ -168,7 +168,7 @@
                 <p class="noteworthy">Taking time to properly prepare your quilt for machine quilting can mean a savings to you!
             </section>
 
-            <p class="title-link" title="Link to Order Information">Order Information &gt;&gt;</p>
+            <p class="title-link" title="Link to Order Information" id="order-section">Order Information &gt;&gt;</p>
         </div>
     </nav>
 
