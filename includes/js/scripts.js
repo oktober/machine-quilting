@@ -2,8 +2,12 @@ $( document ).ready( function() {
 
     //JS for drop-down info to show/hide in started-links
     $(".title-link").click( function() {
+        $("section.dropdown-info").each(function() {
+            $(this).hide();
+        });
+
         $(this).next("section.dropdown-info").toggle();
-        //next step is to go through each of the other title-link's and hide if they're showing content
+        //working, but the focus stays on the page's location instead of moving to the new drop-down section...
     });
 
 
