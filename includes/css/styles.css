@@ -76,7 +76,11 @@ a:visited {
     margin-bottom: 0.5rem;
     font-size: 1.3rem;
 }
+.page-title {
+    margin-top: 0.8rem;
+}
 .section-title,
+.primary-nav a,
 .second-nav a{
     padding: 2% 0 2% 0.5rem;
 }
@@ -135,6 +139,7 @@ header {
     height: 3px;
     border: none;
     margin-top: 0;
+    margin-bottom: 0;
     background-color: #8C1300;
 }
 
@@ -156,6 +161,10 @@ header {
 .second-nav {
     margin: 0.6rem 0 1rem 0;
 }
+.primary-nav {
+    margin-top: 0.4rem;
+}
+.primary-nav a,
 .second-nav a {
     display: block;
     margin-bottom: 0.8rem;
@@ -163,6 +172,12 @@ header {
     color: #000;
     font-size: 1.2rem;
 }
+.primary-nav a{
+    margin-bottom: 0.5rem;
+}
+.primary-nav a:hover,
+.primary-nav a:focus,
+.primary-nav a:active,
 .second-nav a:hover,
 .second-nav a:focus,
 .second-nav a:active{
@@ -216,6 +231,7 @@ cite:before  {
 
 /** FOOTER **/
 .info-group,
+.page-detail,
 footer {
     clear: both;
     padding: 0 5%;
