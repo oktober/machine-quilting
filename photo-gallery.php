@@ -3,8 +3,8 @@
 
     <nav class="primary-nav">
         <a href="index.php" title="Link to Home Page">Get Started <span class="italicize">(Home)</span> &gt;&gt;</a>
-        <a href="" title="Link to About Quilts 4 You">About Quilts 4 You &gt;&gt;</a>
-        <a href="" title="Link to Quilt Shop">Quilt Shop &gt;&gt;</a>
+        <a href="about-us.php" title="Link to About Quilts 4 You">About Quilts 4 You &gt;&gt;</a>
+        <a href="http://shop.quilts4you.com/" title="Link to Quilt Shop" target="_blank">Quilt Shop &gt;&gt;</a>
     </nav>
 
     <section>

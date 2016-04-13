@@ -173,9 +173,9 @@
     </nav>
 
     <nav class="second-nav">
-        <a href="" title="Link to Photo Gallery">Photo Gallery &gt;&gt;</a>
-        <a href="" title="Link to About Quilts 4 You">About Quilts 4 You &gt;&gt;</a>
-        <a href="" title="Link to Quilt Shop">Quilt Shop &gt;&gt;</a>
+        <a href="photo-gallery.php" title="Link to Photo Gallery">Photo Gallery &gt;&gt;</a>
+        <a href="about-us.php" title="Link to About Quilts 4 You">About Quilts 4 You &gt;&gt;</a>
+        <a href="http://shop.quilts4you.com/" title="Link to Quilt Shop" target="_blank">Quilt Shop &gt;&gt;</a>
     </nav>
 
     <section id="contact-us-form">
