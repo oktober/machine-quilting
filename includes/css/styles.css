@@ -228,6 +228,15 @@ cite:before  {
     text-decoration: underline;
 }
 
+.gallery-img {
+    width: 100%;
+}
+
+.return-top {
+    font-style: italic;
+    text-decoration: underline;
+}
+
 
 /** FOOTER **/
 .info-group,
