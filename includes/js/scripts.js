@@ -29,6 +29,7 @@ $( document ).ready( function() {
         .done(function( response ) {
             $('form')[0].reset();
             $('#contact-title').hide().html('Thank you for your message!').fadeIn("slow");
+            $('form').prop("hidden", true);
         });
 
     });
