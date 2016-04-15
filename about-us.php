@@ -20,6 +20,8 @@
             <p>Besides machine quilting, I also get a lot of enjoyment in designing quilt patterns and projects. You can find a few of my original patterns in our <a href="http://shop.quilts4you.com" target="_blank" class="noteworthy">on-line quilt shop</a>. </p>
             <p>Sharing the art of quiltmaking is the joy of my life!</p>
         </div>
+
+        <p><a href="#" class="return-top">Return to top</a></p>
     </section>
 
 <?php require_once("includes/footer.php"); ?>

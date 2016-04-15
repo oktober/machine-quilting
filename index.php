@@ -175,9 +175,8 @@
 
             <p class="title-link" title="Link to Order Information" id="order-section">Order Information &gt;&gt;</p>
             <section class="dropdown-info">
-                <h3 class="dropdown-title">Send us your quilt!</h3>
-                <p><a href="includes/files/quilting-order-form.pdf" target="_blank">Quilting Order Form <span class="italicize">(PDF download)</span></a></p>
-                <p><span class="bold italicize">Download the pdf form above, print it, fill it out, and send it with your quilt to:</span>
+                <h3 class="dropdown-title">Sending Your Quilt</h3>
+                <p><span class="noteworthy">Download the <a href="includes/files/quilting-order-form.pdf" target="_blank">Quilting Order Form <span class="italicize">(PDF)</span></a>, fill it out, and send with your quilt to:</span>
                     <br>Quilts 4 You - Machine Quilting
                     <br>647 East Bristlecone Lane
                     <br>PO Box 21
