@@ -19,9 +19,9 @@
             <p>When it comes to machine quilting, we are always keeping an eye out for new techniques and quilting patterns. We regularly attend quilting classes at the Home Machine Quilters Showcase (HMQS) in Salt Lake City and we also take classes from several international long arm instructors each year. The knowledge we gain from these classes is priceless; and our quilting patterns show it. </p>
             <p>Besides machine quilting, I also get a lot of enjoyment in designing quilt patterns and projects. You can find a few of my original patterns in our <a href="http://shop.quilts4you.com" target="_blank" class="noteworthy">on-line quilt shop</a>. </p>
             <p>Sharing the art of quiltmaking is the joy of my life!</p>
-        </div>
 
-        <p><a href="#" class="return-top">Return to top</a></p>
+            <p><a href="#" class="return-top">Return to top</a></p>
+        </div>
     </section>
 
 <?php require_once("includes/footer.php"); ?>
