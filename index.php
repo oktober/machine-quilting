@@ -173,8 +173,8 @@
                 <h3 class="dropdown-title">Send us your quilt!</h3>
                 <p><a href="includes/files/quilting-order-form.pdf" target="_blank">Quilting Order Form <span class="italicize">(PDF download)</span></a></p>
                 <p><span class="bold italicize">Download the pdf form above, print it, fill it out, and send it with your quilt to:</span>
-                    <br>Quilts 4 You/Heartspun Treasures
-                    <br>647 E Bristlecone Lane
+                    <br>Quilts 4 You - Machine Quilting
+                    <br>647 East Bristlecone Lane
                     <br>PO Box 21
                     <br>Delta, UT 84624
                 </p>
