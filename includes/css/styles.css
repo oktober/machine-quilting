@@ -237,6 +237,15 @@ cite:before  {
     text-decoration: underline;
 }
 
+.profile-title {
+    line-height: 1rem;
+}
+.profile-img {
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+
 
 /** FOOTER **/
 .info-group,
