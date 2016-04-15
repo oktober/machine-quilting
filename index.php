@@ -25,6 +25,7 @@
                 <p><span class="quilting-size">King (96"x108")</span> <span class="italicize">starting at <span class="bold">$129.60</span></span></p>
                 <p><span class="quilting-size">XL King (108"x108")</span> <span class="italicize">starting at <span class="bold">$145.80</span></span></p>
                 <p class="comment"><span class="bold">*</span>Minimum quilting charge of $25 and minimum thread charge of $2. Additional charges and rush fees may apply. Please <a href="#contact-us-form">contact us for questions or a quote</a>.</p>
+                <hr class="divider">
             </section>
 
             <p class="title-link" title="Link to Patterns page" id="patterns-section">Patterns &gt;&gt;</p>
@@ -40,6 +41,7 @@
                     <br>
                     <span class="comment">Example of Country Rose and Stipple patterns</span>
                 </p>
+                <hr class="divider">
             </section>
 
             <p class="title-link" title="Link to Thread and Batting page" id="thread-section">Thread &gt;&gt;</p>
@@ -58,6 +60,7 @@
                     <br>
                     All threads are machine quilting quality. We will try to match your thread selection as close as possible.
                 </p>
+                <hr class="divider">
             </section>
 
             <p class="title-link" title="Link to Thread and Batting page" id="batting-section">Batting &gt;&gt;</p>
@@ -97,6 +100,7 @@
                     <br>
                     <span class="bold comment">96" wide $11.99/yard</span>
                 </p>
+                <hr class="divider">
             </section>
 
             <p class="title-link" title="Link to Preparation Checklist" id="prep-section">Preparation Checklist &gt;&gt;</p>
@@ -166,6 +170,7 @@
                 </p>
 
                 <p class="noteworthy">Taking time to properly prepare your quilt for machine quilting can mean a savings to you!
+                <hr class="divider">
             </section>
 
             <p class="title-link" title="Link to Order Information" id="order-section">Order Information &gt;&gt;</p>
