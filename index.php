@@ -169,6 +169,34 @@
             </section>
 
             <p class="title-link" title="Link to Order Information" id="order-section">Order Information &gt;&gt;</p>
+            <section class="dropdown-info">
+                <h3 class="dropdown-title">Send us your quilt!</h3>
+                <p><a href="includes/files/quilting-order-form.pdf" target="_blank">Quilting Order Form <span class="italicize">(PDF download)</span></a></p>
+                <p><span class="bold italicize">Download the pdf form above, print it, fill it out, and send it with your quilt to:</span>
+                    <br>Quilts 4 You/Heartspun Treasures
+                    <br>647 E Bristlecone Lane
+                    <br>PO Box 21
+                    <br>Delta, UT 84624
+                </p>
+                <p>For questions or assistance, call (435) 864-4000 (MST/MDT) or <a href="#contact-us-form">contact us</a>.</p>
+
+                <h3 class="dropdown-title">Payment</h3>
+                <ul>
+                    <li>Payment in full <span class="bold">before</span> shipping</li>
+                    <li>Cash, PayPal, Cashier's Check, or Money Order</li>
+                    <li>No checks or COD's accepted</li>
+                    <li>PayPal only for international orders</li>
+                    <li><span class="noteworthy">Utah residents</span> add 6&#37; sales tax</li>
+                    <li>Insurance charges will be added to all shipments. <span class="italicize">No exceptions</span></li>
+                    <li>The cost of insurance will be added to your return shipping charge</li>
+                </ul>
+
+                <h3 class="dropdown-title">Shipping & Handling</h3>
+                <p>We use UPS & USPS Priority Mail, 3-7 business days. Prices subject to change without notice.</p>
+
+                <h3 class="dropdown-title">International Orders</h3>
+                <p>All orders subject to actual shipping, handling, and insurance charges. <a href="#contact-us-form">Contact us</a> for specifics.</p>
+            </section>
         </div>
     </nav>
 
@@ -210,8 +238,8 @@
     <section>
         <h2 class="section-title">New Customer Discount</h2>
         <p class="info-group">
-            Are you a new customer? Bring in your quilt and mention our new customer discount to receive
-            <br> <span class="noteworthy">10% off your first machine quilting charge!</span>
+            Are you a new customer? Bring or send in your quilt and mention our new customer discount to receive
+            <span class="noteworthy">10% off your first machine quilting charge!</span>
         </p>
     </section>
 
